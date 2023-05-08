@@ -1,8 +1,8 @@
 # Personal Information
 basic_info:
   # Your full name
-  first_name: Judith
-  last_name: Carreño
+  first_name: JORGE
+  last_name: SAMPER
 
   # You have 1 paragraph to make a great impression, summarize your career.
   summary:
@@ -16,7 +16,7 @@ basic_info:
   avatar: https://randomuser.me/api/portraits/women/24.jpg
 
   # Contact Information
-  email: devconpantuflas@gmail.com #optional
+  email: jorgesamper7@gmail.com #optional
   phone: 569 22138662 #optional
 
   #
@@ -29,11 +29,11 @@ basic_info:
 
   # Interests or hobies
   interests:
-    - item: Palantas
+    - item: Web Developer
 
-    - item: 3D web
+    - item: 3D Modeling
 
-    - item: Arte
+    - item: Graphic Designer
 
 # Your previous education
 education:
